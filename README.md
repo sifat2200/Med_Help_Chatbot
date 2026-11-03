@@ -308,7 +308,13 @@ North South University, Bangladesh
 
 ## 🤝 Contributors
 
-This repository was developed collaboratively. Keep contributor names/links in this section accurate to the current project team.
+Group details:
+Group: 08
+Member 01: Shoumik Sarkar ID: 2211320042 Email: shoumik.sarkar@northsouth.edu
+
+Member 02: Anik Barua ID: 2211155642 Email: anik.barua01@northsouth.edu
+
+Member 03: Md. Shefatullah Bin Sadik ID: 2222538642 Email: shefatullah.sadik@northsouth.edu
 
 ---
 
